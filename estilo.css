@@ -1,0 +1,17 @@
+body{
+    color:darkblue;
+    background-color: rgba(241, 210, 203, 0.979);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+h1{
+    color: rgb(211, 16, 127);
+    font-size: 40px;
+    text-align: center;
+}
+p{
+    color: rgba(45, 233, 189, 0.878);
+    font-size: 40px;
+    text-align: justify;
+    negative: -moz-repeating-linear-gradient(left, red, yellow, green);
+}
