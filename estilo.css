@@ -15,3 +15,13 @@ p{
     text-align: justify;
     negative: -moz-repeating-linear-gradient(left, red, yellow, green);
 }
+table{
+    border: 4px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th{
+    border: 2px solid black;
+    padding: 8px;
+    text-align: center;
+}
