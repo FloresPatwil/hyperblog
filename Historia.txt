@@ -1,1 +1,2 @@
-Agregando contenido al Archivo Historia.txt
+Corrigiendo el txt 
+contenido al Archivo Historia.txt
